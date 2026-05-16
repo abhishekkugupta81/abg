@@ -23,5 +23,4 @@ For this repository, the expected URLs are:
 - https://abhishekkugupta81.github.io/abg/support.html
 - https://abhishekkugupta81.github.io/abg/privacy.html
 
-Replace `YOUR_SUPPORT_EMAIL@example.com` and `YOUR_NAME_OR_COMPANY` before using the pages in App Store Connect.
-
+Replace `YOUR_NAME_OR_COMPANY` before using the pages in App Store Connect.
